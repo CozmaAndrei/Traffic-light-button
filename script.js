@@ -9,4 +9,4 @@ function changeButtonColor() {
         index = 0;
     }
 };
-setInterval(changeButtonColor,10000);
+setInterval(changeButtonColor, 10000);
